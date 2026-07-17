@@ -1,0 +1,7 @@
+raw/*.xlsx
+raw/*.xlsm
+raw/*.xls
+!raw/PUT_EXCEL_FILES_HERE.txt
+.venv/
+__pycache__/
+*.pyc
